@@ -1,0 +1,31 @@
+[{
+        id: "87625328",
+        nama: "Elizabeth",
+        nationality: $scope.nationalities[0],
+        lahir: "1964-04-08T00:00:00.000"
+    }, {
+        id: "923865",
+        nama: "Martin",
+        nationality: $scope.nationalities[1],
+        lahir: "1999-07-28T00:00:00.000"
+    }, {
+        id: "87235",
+        nama: "Samsudin",
+        nationality: $scope.nationalities[3],
+        lahir: "1923-11-01T00:00:00.000"
+    }, {
+        id: "872352",
+        nama: "Krisdayanti",
+        nationality: $scope.nationalities[2],
+        lahir: "1945-08-17T00:00:00.000"
+    }, {
+        id: "124235",
+        nama: "SYahrini",
+        nationality: $scope.nationalities[3],
+        lahir: "2018-09-08T00:00:00.000"
+    }, {
+        id: "98273",
+        nama: "Obama",
+        nationality: $scope.nationalities[1],
+        lahir: "1972-05-21T00:00:00.000"
+    }]
