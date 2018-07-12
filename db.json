@@ -1,55 +1,62 @@
-[{
-        "id": "87625328",
-        "nama": "Elizabeth",
-        "nationality": {
-        "nama": "Indonesia",
-        "singkatan": "ID",
-        "matauang": "Rupiah",
-    },
-        "lahir": "1964-04-08T00:00:00.000"
-    }, {
-        "id": "923865",
-        "nama": "Martin",
-        "nationality": {
-        "nama": "Amerika Serikat",
-        "singkatan": "US",
-        "matauang": "Dollar"
-    },
-        "lahir": "1999-07-28T00:00:00.000"
-    }, {
-        "id": "87235",
-        "nama": "Samsudin",
-        "nationality": {
-        "nama": "China",
-        "singkatan": "CH",
-        "matauang": "Yuan"
-    },
-        "lahir": "1923-11-01T00:00:00.000"
-    }, {
-        "id": "872352",
-        "nama": "Krisdayanti",
-        "nationality": {
-        "nama": "Inggris",
-        "singkatan": "UK",
-        "matauang": "Pounds"
-    },
-        "lahir": "1945-08-17T00:00:00.000"
-    }, {
-        "id": "124235",
-        "nama": "SYahrini",
-        "nationality": {
-        "nama": "China",
-        "singkatan": "CH",
-        "matauang": "Yuan"
-    },
-        "lahir": "2018-09-08T00:00:00.000"
-    }, {
-        "id": "98273",
-        "nama": "Obama",
-        "nationality": {
-        "nama": "Amerika Serikat",
-        "singkatan": "US",
-        "matauang": "Dollar"
-    },
-        "lahir": "1972-05-21T00:00:00.000"
-    }]
+[
+	{
+		"id": "87625328",
+		"nama": "Elizabeth",
+		"lahir": "1964-04-08T00:00:00.000",
+		"nationality": {
+			"nama": "Indonesia",
+			"singkatan": "ID",
+			"matauang": "Rupiah"
+		}
+	},
+	{
+		"id": "923865",
+		"nama": "Martin",
+		"lahir": "1999-07-28T00:00:00.000",
+		"nationality": {
+			"nama": "Amerika Serikat",
+			"singkatan": "US",
+			"matauang": "Dollar"
+		}
+	},
+	{
+		"id": "87235",
+		"nama": "Samsudin",
+		"lahir": "1923-11-01T00:00:00.000",
+		"nationality": {
+			"nama": "China",
+			"singkatan": "CH",
+			"matauang": "Yuan"
+		}
+	},
+	{
+		"id": "872352",
+		"nama": "Krisdayanti",
+		"lahir": "1945-08-17T00:00:00.000",
+		"nationality": {
+			"nama": "Inggris",
+			"singkatan": "UK",
+			"matauang": "Pounds"
+		}
+	},
+	{
+		"id": "124235",
+		"nama": "SYahrini",
+		"lahir": "2018-09-08T00:00:00.000",
+		"nationality": {
+			"nama": "China",
+			"singkatan": "CH",
+			"matauang": "Yuan"
+		}
+	},
+	{
+		"id": "98273",
+		"nama": "Obama",
+		"lahir": "1972-05-21T00:00:00.000",
+		"nationality": {
+			"nama": "Amerika Serikat",
+			"singkatan": "US",
+			"matauang": "Dollar"
+		}
+	}
+]
